@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>PudasjarviAlternates</name>
+	<open>1</open>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Alternates</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>:/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>:/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Asmunti pellot</name>
+			<LookAt>
+				<longitude>26.57973181669297</longitude>
+				<latitude>65.7229258707649</latitude>
+				<altitude>0</altitude>
+				<heading>0.05858572046676385</heading>
+				<tilt>10.79185706303639</tilt>
+				<range>5065.820141500247</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.60063348827424,65.71856358742066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Livojoen sillan pellot</name>
+			<LookAt>
+				<longitude>26.80250167358059</longitude>
+				<latitude>65.47235132071606</latitude>
+				<altitude>0</altitude>
+				<heading>0.7564271804623917</heading>
+				<tilt>17.47001217201377</tilt>
+				<range>1231.603814296103</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.79740688030496,65.47235884216453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kokkokylä pellot</name>
+			<LookAt>
+				<longitude>26.65741807797957</longitude>
+				<latitude>65.69561807653699</latitude>
+				<altitude>0</altitude>
+				<heading>0.6298667653941105</heading>
+				<tilt>21.98250957624959</tilt>
+				<range>819.6705188301129</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.65615451383657,65.69526034329412,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karhuperä pellot</name>
+			<LookAt>
+				<longitude>26.61846664220742</longitude>
+				<latitude>65.6895233786821</latitude>
+				<altitude>0</altitude>
+				<heading>0.5943667013689293</heading>
+				<tilt>15.93395226590711</tilt>
+				<range>2396.353594425469</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.62568010933344,65.6889173926871,250</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ala-Siurua pellot</name>
+			<description>L-muotoinen pelto, 0/180 ja 90/270 suunnat, 500m</description>
+			<LookAt>
+				<longitude>26.32825064052416</longitude>
+				<latitude>65.49227594355129</latitude>
+				<altitude>0</altitude>
+				<heading>0.3348047915531626</heading>
+				<tilt>30.02195462051015</tilt>
+				<range>5005.682140751817</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.31670994459136,65.48977084064477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yli-Tannila turvesuot</name>
+			<description>Yli-Tannilasta hieman etelään turvesuot, suunnat 90/180 ja 30/210.</description>
+			<LookAt>
+				<longitude>26.16756870667208</longitude>
+				<latitude>65.48171627442929</latitude>
+				<altitude>0</altitude>
+				<heading>0.1881290225504174</heading>
+				<tilt>28.33320552669306</tilt>
+				<range>3480.082018733488</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.15028201883565,65.48242998114432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yli-Tannila pellot</name>
+			<description>Yli-tannilan peltoja. 83m alt. Merkin kohdalla yli 500m 140/320 suunnassa.</description>
+			<LookAt>
+				<longitude>26.13340015636878</longitude>
+				<latitude>65.50138321723475</latitude>
+				<altitude>0</altitude>
+				<heading>0.1571731913495945</heading>
+				<tilt>30.0119919039433</tilt>
+				<range>2904.760052882488</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.14621003151392,65.5046619012476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tuomela pellot</name>
+			<description>Pitkä peltoja Tuomelassa. 81m alt.</description>
+			<LookAt>
+				<longitude>26.08169258365181</longitude>
+				<latitude>65.48485532404254</latitude>
+				<altitude>0</altitude>
+				<heading>0.1101219745300987</heading>
+				<tilt>30.0052726309328</tilt>
+				<range>1291.408515219804</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.08169258365181,65.48485532404254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lamminperä turvesuo</name>
+			<description>Lamminperän turvesuot, 109m alt. 120/300 suunnassa pitkiä sarkoja.</description>
+			<LookAt>
+				<longitude>25.99577945186702</longitude>
+				<latitude>65.56979020687433</latitude>
+				<altitude>0</altitude>
+				<heading>0.03195852390112038</heading>
+				<tilt>30.00923837059284</tilt>
+				<range>2062.105259139023</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>25.99577945186703,65.56979020687433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kivilammen turvesuot</name>
+			<description>Turvesuot, pitkiä sarkoja moneen suuntaan. 105m alt.</description>
+			<LookAt>
+				<longitude>26.5746243537685</longitude>
+				<latitude>65.44855850927786</latitude>
+				<altitude>0</altitude>
+				<heading>0.5562256571218798</heading>
+				<tilt>28.45779823354503</tilt>
+				<range>3259.379506610313</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.5746243537685,65.44855850927787,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aittojärven turvesuot</name>
+			<description>Pienehköjä turvesoita Aittojärvestä itään. Suunta 200/20, pituus noin 350m. Alt 100m.</description>
+			<LookAt>
+				<longitude>26.64458788958097</longitude>
+				<latitude>65.41113011918678</latitude>
+				<altitude>0</altitude>
+				<heading>0.6199592635788813</heading>
+				<tilt>27.1967957639852</tilt>
+				<range>2745.024862109221</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.63400768415558,65.41056728021424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aittojärven pelto</name>
+			<description>Pelto aittojärven pohjoispuolella. Sarkaleveys noin 15m. pituus noin 400m. Suunta 30/210. alt 110m.</description>
+			<LookAt>
+				<longitude>26.69821701572845</longitude>
+				<latitude>65.42508794479153</latitude>
+				<altitude>0</altitude>
+				<heading>0.6525390945459083</heading>
+				<tilt>23.36726988989759</tilt>
+				<range>2877.653950872748</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.69305021119394,65.42614630568478,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Suokkola pelto</name>
+			<description>400m pitkä pelto suunnassa 60/210. Alt 110m. Noin neljä sarkaa, keskellä lato.</description>
+			<LookAt>
+				<longitude>26.76810877747163</longitude>
+				<latitude>65.41415478961223</latitude>
+				<altitude>0</altitude>
+				<heading>0.7311307141342588</heading>
+				<tilt>26.9551273765415</tilt>
+				<range>1141.042154343858</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.76902407005106,65.41544782429305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lauttasen turvesuo</name>
+			<description>Turvesuo, jossa noin 300m sarkoja itä-länsi suunnassa ja muuutama 500m pohjois-etelä suunnassa. alt 110m</description>
+			<LookAt>
+				<longitude>26.6325702438154</longitude>
+				<latitude>65.37153546673068</latitude>
+				<altitude>0</altitude>
+				<heading>0.6186318744836965</heading>
+				<tilt>29.67300548291822</tilt>
+				<range>2692.38898990172</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.62950859983146,65.37595660398752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Temmeskylän turvesuo</name>
+			<description>Moneen suuntaan noin 600m pitkiä sarkoja</description>
+			<LookAt>
+				<longitude>27.01985390307783</longitude>
+				<latitude>65.4871244437379</latitude>
+				<altitude>0</altitude>
+				<heading>0.905855947169859</heading>
+				<tilt>16.6333225497475</tilt>
+				<range>3638.142770031154</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.01423817369117,65.48608977926598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kivarintien turvesuo</name>
+			<description>Turvesuo, sarkoja 120/300 ja 80/260 suunnassa noin 600m pitkiä. alt 130m</description>
+			<LookAt>
+				<longitude>27.08662862844667</longitude>
+				<latitude>65.44057849763816</latitude>
+				<altitude>0</altitude>
+				<heading>1.007713916163542</heading>
+				<tilt>22.14300705329216</tilt>
+				<range>2083.288111568413</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.08054345112165,65.43885942929094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Teerilammensuo</name>
+			<description>Turvesuo, ehkä ei käytössä? Pohjois-etelä suunnassa 600m sarkoja. Alt 110m.</description>
+			<LookAt>
+				<longitude>26.35784069471557</longitude>
+				<latitude>65.59331983622275</latitude>
+				<altitude>0</altitude>
+				<heading>0.3567554934484027</heading>
+				<tilt>24.26862070880172</tilt>
+				<range>2655.311687105306</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.3507422690114,65.59490017093521,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lampisuo</name>
+			<description>Turvesuo, 600m sarkoja suunnassa 45/225. alt 110m</description>
+			<LookAt>
+				<longitude>26.50628135526393</longitude>
+				<latitude>65.32592686388279</latitude>
+				<altitude>0</altitude>
+				<heading>0.482781432750556</heading>
+				<tilt>22.29699776536751</tilt>
+				<range>1747.715256475931</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.50022531174585,65.32720732309097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kortesuo</name>
+			<description>Turvesuo, 120/300 suunnassa 400m pitkiä sarkoja. alt 110m</description>
+			<LookAt>
+				<longitude>26.62844039269022</longitude>
+				<latitude>65.24322257728656</latitude>
+				<altitude>0</altitude>
+				<heading>0.6120247373044098</heading>
+				<tilt>25.35318203348782</tilt>
+				<range>1737.717954676426</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.62857028910808,65.24215087189042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Juurikka-aho turvesuo</name>
+			<description>Turvesuo, 300m pitkiä sarkoja 120/300 suunnassa. 120m alt.</description>
+			<LookAt>
+				<longitude>26.43770818070705</longitude>
+				<latitude>65.21241020418727</latitude>
+				<altitude>0</altitude>
+				<heading>0.4237898542537681</heading>
+				<tilt>22.74054357946007</tilt>
+				<range>1053.601922220026</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.43770818070706,65.21241020418725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kelankylän pelto</name>
+			<description>400m pitkä pelto suunnassa 300/120. Ympärillä muita pienempiä peltoja. Alt 150m.</description>
+			<LookAt>
+				<longitude>27.03868573846822</longitude>
+				<latitude>65.74773519742648</latitude>
+				<altitude>0</altitude>
+				<heading>0.9224624917997915</heading>
+				<tilt>19.40716861108567</tilt>
+				<range>2279.062015891334</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.03695192291971,65.74686139793403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tuhansuon pellot</name>
+			<description>Peltoja, 500m pitkiä sarkoja suunnassa 330/150. Ympärillä muutama muu. Alt 160m.</description>
+			<LookAt>
+				<longitude>27.19905326197198</longitude>
+				<latitude>65.74019851124983</latitude>
+				<altitude>0</altitude>
+				<heading>1.067770332030446</heading>
+				<tilt>19.30537069634926</tilt>
+				<range>1701.580275923389</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.20199174660881,65.74242893793419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hyppylän pellot</name>
+			<description>Pelto tien vieressä. 400m pitkä suunnassa 110/290. Atl 150m</description>
+			<LookAt>
+				<longitude>27.15856057176467</longitude>
+				<latitude>65.71625148083366</latitude>
+				<altitude>0</altitude>
+				<heading>1.06824255130419</heading>
+				<tilt>25.80030797200486</tilt>
+				<range>904.5419665858357</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.15914389599796,65.71677220967696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yli-Livon pelto</name>
+			<description>Tien vieressä 450m pitkä peltosarka, suunnassa 350/170. Lähistöllä pienempiä peltoja myös. Alt 130m.</description>
+			<LookAt>
+				<longitude>27.18140299572838</longitude>
+				<latitude>65.58679236060094</latitude>
+				<altitude>0</altitude>
+				<heading>1.109169159788229</heading>
+				<tilt>30.00272460271249</tilt>
+				<range>781.6612437347307</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.18017923086725,65.58663804327851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuukkeli pelto</name>
+			<description>Pelto, 400m pitkä, suunnassa 65/225, alt 135m</description>
+			<LookAt>
+				<longitude>27.21772846633185</longitude>
+				<latitude>65.56801637565786</latitude>
+				<altitude>0</altitude>
+				<heading>1.107972655745138</heading>
+				<tilt>23.14618132371291</tilt>
+				<range>1050.115960324189</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.21772846633184,65.56801637565786,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuokka pellot</name>
+			<description>Useita noin 350m pitkiä peltosarkoja, suunnassa 80/260. alt 130m</description>
+			<LookAt>
+				<longitude>27.18229237374283</longitude>
+				<latitude>65.55076603435485</latitude>
+				<altitude>0</altitude>
+				<heading>1.081217099068006</heading>
+				<tilt>23.99099884397627</tilt>
+				<range>2057.958771384931</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.18008502775262,65.55024658220928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rytingin pellot</name>
+			<description>Joen pohjoispuolella peltoja, pohjois-eteläsuunnassa, idänpuoleisin sarka pisin 280m</description>
+			<LookAt>
+				<longitude>27.3471911059596</longitude>
+				<latitude>65.69526977650362</latitude>
+				<altitude>0</altitude>
+				<heading>1.25066753996193</heading>
+				<tilt>28.23204729757644</tilt>
+				<range>395.8037357779496</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.34754070703914,65.69535601698254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Haapalan pellot</name>
+			<description>Pellot joen länsirannalla. Sarkojen pituus noin 260m, suunnassa 45/225 ja 85/265. Alt 144m.</description>
+			<LookAt>
+				<longitude>27.36645783972617</longitude>
+				<latitude>65.71471311918576</latitude>
+				<altitude>0</altitude>
+				<heading>1.273379534980626</heading>
+				<tilt>29.67024851275178</tilt>
+				<range>1043.516566505088</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.36417237103759,65.71552510388641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sarajärven pellot</name>
+			<description>Peltosarkoja suunnassa 165/345, pituusn noin 450m. Alt 160m</description>
+			<LookAt>
+				<longitude>27.41373493963107</longitude>
+				<latitude>65.81217400621971</latitude>
+				<altitude>0</altitude>
+				<heading>-1.299620226513608</heading>
+				<tilt>26.902471717358</tilt>
+				<range>1116.038569147877</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.41373493963107,65.81217400621972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Varpuvaaran pellot</name>
+			<description>Peltoja pohjois-etelä suunnassa, kolme neliön muotoista peltoalaa, sarkojen pituus noin 300m. alt 160m.</description>
+			<LookAt>
+				<longitude>27.41578147079192</longitude>
+				<latitude>65.74689298047258</latitude>
+				<altitude>0</altitude>
+				<heading>-1.295585575764908</heading>
+				<tilt>13.74224423919556</tilt>
+				<range>4893.083315126272</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.40764652625087,65.74646084431257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kuopusjärven pellot</name>
+			<description>peltoja järven eteläpuolella, suunnassa 45/225 pituus 500m, poikittain muita sarkoja pituudet noin 250m. Alt 185m</description>
+			<LookAt>
+				<longitude>27.37312164086311</longitude>
+				<latitude>65.65025520371829</latitude>
+				<altitude>0</altitude>
+				<heading>-1.321419644525332</heading>
+				<tilt>18.75965571095523</tilt>
+				<range>721.612150657607</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.37231498080596,65.65024494765927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hoikkalammen pellot</name>
+			<description>Peltosarkoja suunnassa 100/280, pituus noin 500m. Alt 180m</description>
+			<LookAt>
+				<longitude>27.40707990564373</longitude>
+				<latitude>65.60631962120371</latitude>
+				<altitude>0</altitude>
+				<heading>-1.284165808111868</heading>
+				<tilt>24.61370307576889</tilt>
+				<range>989.0122369891598</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.40407342287825,65.60729084865859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Iinattijärven pellot</name>
+			<description>Peltosarkoja suunnassa 340/160, pituus noin 260m, useita rinnakkain ja peräkkäin (hox, tie sarkojen poikki). Alt 140m</description>
+			<LookAt>
+				<longitude>27.42730221961562</longitude>
+				<latitude>65.47653595205225</latitude>
+				<altitude>0</altitude>
+				<heading>-1.265305255782207</heading>
+				<tilt>24.97745236794654</tilt>
+				<range>783.3544841276299</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.42439446039409,65.47716269494474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tulitauon pellot</name>
+			<description>Useita peltoja tulitauosta läteen, suunnassa 90/270 450m pitkiä sarkoja. Pohjois-eteläsuunnassa lyhyempiä</description>
+			<LookAt>
+				<longitude>27.28498638766989</longitude>
+				<latitude>65.3924612112295</latitude>
+				<altitude>0</altitude>
+				<heading>-1.389577109067847</heading>
+				<tilt>27.90802556386521</tilt>
+				<range>807.3423280888836</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.28864629829354,65.39298397066105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rissasenperän pellot</name>
+			<description>Pelto suunnassa 350/170, sarkojen pituus 450m, alt 120m</description>
+			<LookAt>
+				<longitude>27.06787408532117</longitude>
+				<latitude>65.37171489946857</latitude>
+				<altitude>0</altitude>
+				<heading>-1.585204923656601</heading>
+				<tilt>28.85848849933984</tilt>
+				<range>2822.015449496929</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.05951600547388,65.37514263175629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hetekylän turvesuo</name>
+			<description>Turvesuo, sarkojen suunta 200/20, pituudet 450m ja yli</description>
+			<LookAt>
+				<longitude>26.69067920246512</longitude>
+				<latitude>65.18633583030864</latitude>
+				<altitude>0</altitude>
+				<heading>-1.940171564864019</heading>
+				<tilt>25.90275031474943</tilt>
+				<range>1698.321503994003</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.68416122670278,65.18614684321248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Livojoen kaaren pelto</name>
+			<description>Puoliympyrän muotonen pelto Livojoen kaaressa, suunnassa 90/270 saran pituus 280m. Alt 110m</description>
+			<LookAt>
+				<longitude>26.76115902009971</longitude>
+				<latitude>65.40455534529968</latitude>
+				<altitude>0</altitude>
+				<heading>-1.891951952192576</heading>
+				<tilt>24.37371143858074</tilt>
+				<range>745.1949571588509</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.7611590200997,65.4045553452997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yliperän pellot</name>
+			<description>Peltosarkoja itä-länsi ja pohjois-eteläsuunnassa, sarkojen pituus yli 450m. Alt 100m.</description>
+			<LookAt>
+				<longitude>26.59148121457713</longitude>
+				<latitude>65.08977581208941</latitude>
+				<altitude>0</altitude>
+				<heading>-2.023206702220969</heading>
+				<tilt>30.00842073176132</tilt>
+				<range>2019.190779477952</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.58719445125605,65.0904409176173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lepolan turvesuo</name>
+			<description>Turvesuo, sarkoja itä-länsi ja pohjois-eteläsuunnassa. Sarkojen pituus 450m tai yli. Alt 110m.</description>
+			<LookAt>
+				<longitude>26.67479550030076</longitude>
+				<latitude>65.08267802629632</latitude>
+				<altitude>0</altitude>
+				<heading>-1.989508785004742</heading>
+				<tilt>20.41379619651851</tilt>
+				<range>1943.882862026148</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.66906773464175,65.0839046174824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ylikiimingin pellot</name>
+			<description>Peltoja eri suunnissa, merkin kohdalla leveitä sarkoja suunnassa 90/270 pituus 300m. Alt 70m. Lähellä myös muita hyviä sarkoja, mutta ehkä hieman kapeampia.</description>
+			<LookAt>
+				<longitude>26.14953383744669</longitude>
+				<latitude>65.01826246166641</latitude>
+				<altitude>0</altitude>
+				<heading>-2.447330146832587</heading>
+				<tilt>27.91263332501262</tilt>
+				<range>947.1736077554881</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.14677223348512,65.01959015262719,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paajasen turvesuo</name>
+			<description>Turvesuo pohjois-eteläsuunnassa, sarkoja rinnakkain yli 500m pituus. Alt 80m.</description>
+			<LookAt>
+				<longitude>26.17362799240314</longitude>
+				<latitude>65.09037296206651</latitude>
+				<altitude>0</altitude>
+				<heading>-2.448383715001305</heading>
+				<tilt>20.7210912167862</tilt>
+				<range>980.0109680153765</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.17049238083828,65.09013871690929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arkala turvesuo</name>
+			<description>Turvesuo, useita sarkoja eri suunnissa, 400m+, alt 80m</description>
+			<LookAt>
+				<longitude>26.10427656300209</longitude>
+				<latitude>65.16661851258662</latitude>
+				<altitude>0</altitude>
+				<heading>-2.498608999807455</heading>
+				<tilt>23.41914783021084</tilt>
+				<range>1413.26996937467</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.1015356783652,65.16663941440085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kortesuon pellot</name>
+			<description>Peltoja suunnassa 40/220, pituus 500m. Alt 90m</description>
+			<LookAt>
+				<longitude>26.18619414156939</longitude>
+				<latitude>65.15703616549642</latitude>
+				<altitude>0</altitude>
+				<heading>-2.40474414697217</heading>
+				<tilt>30.00474673811776</tilt>
+				<range>1057.130139951347</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.18619414156939,65.15703616549642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ruottisenharjun pellot</name>
+			<description>Peltosarkoja suunnassa 100/280. Pituus 300m.</description>
+			<LookAt>
+				<longitude>27.22491539821472</longitude>
+				<latitude>65.23186647277119</latitude>
+				<altitude>0</altitude>
+				<heading>-1.500723254861479</heading>
+				<tilt>20.47541057911239</tilt>
+				<range>753.1201999670051</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.22316820555199,65.23239225212308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Takasuon turvesuo</name>
+			<description>Turvesuo, sarkoja moniin suuntiin. Merkin kohdalla suunnassa 10/190, pituus 500m+. Alt 120m.</description>
+			<LookAt>
+				<longitude>27.03563324608051</longitude>
+				<latitude>65.26563472714214</latitude>
+				<altitude>0</altitude>
+				<heading>-1.660622694893475</heading>
+				<tilt>23.14369681719955</tilt>
+				<range>1565.464716661295</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.03122421690373,65.26845440962981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Isoahon pelto</name>
+			<description>Huoo kuva, ei varma. Pelto, suunnassa 335/135, pituus 300m idänpuoleisin sarka pisin. Alt 130m.</description>
+			<LookAt>
+				<longitude>27.49045001878223</longitude>
+				<latitude>65.30113648916337</latitude>
+				<altitude>0</altitude>
+				<heading>-1.251918856295306</heading>
+				<tilt>22.59406075649015</tilt>
+				<range>1841.510626428345</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.49045001878223,65.30113648916337,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Karjolammen pellot</name>
+			<description>Huonot kuvat, epävarma. Lammen ympärillä peltosarkoja, suunnassa 30/210 300m pitkiä, suunnassa 80/260 250m. Alt 170m.</description>
+			<LookAt>
+				<longitude>27.8650072911497</longitude>
+				<latitude>65.47205091822919</latitude>
+				<altitude>0</altitude>
+				<heading>1.682665310460192</heading>
+				<tilt>22.72077281405022</tilt>
+				<range>1614.135528589754</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.86559793236743,65.47305879442821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ranta-Kunnas pelto</name>
+			<description>Joen veressä pelto, jonka keskellä lato. Joen vartta sarkapituus 325m suunnassa 75/255. Alt 170m.</description>
+			<LookAt>
+				<longitude>27.92528857780394</longitude>
+				<latitude>65.49001443357525</latitude>
+				<altitude>0</altitude>
+				<heading>1.737951603071062</heading>
+				<tilt>30.00872205329208</tilt>
+				<range>2261.874424696338</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.92081071419589,65.49032421001668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sääskisuo turvesuo</name>
+			<description>Turvesuo, ympärillä useita turvesoita. Merkin kohdalla suunnassa 0/180 500m sarkoja. Alt 165m.</description>
+			<LookAt>
+				<longitude>26.6551559829552</longitude>
+				<latitude>65.84801339249499</latitude>
+				<altitude>0</altitude>
+				<heading>0.5907083759092788</heading>
+				<tilt>21.68136623238484</tilt>
+				<range>3306.876079857686</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.65540381062878,65.85027379266138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ranuan pellot</name>
+			<description>Pelto, sarkojen suunta 300/120, tieltä pituus 500m. Alt 150m.</description>
+			<LookAt>
+				<longitude>26.5251049884556</longitude>
+				<latitude>65.94758855183123</latitude>
+				<altitude>0</altitude>
+				<heading>0.4802417188941732</heading>
+				<tilt>26.62554847425727</tilt>
+				<range>992.422875346937</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.52184424139963,65.94726963962307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Näätäaavan turvesuot</name>
+			<description>Useita turvesoita eri suuntiin, alt 140m.</description>
+			<LookAt>
+				<longitude>26.21930094038581</longitude>
+				<latitude>65.93249938979587</latitude>
+				<altitude>0</altitude>
+				<heading>0.187810377611</heading>
+				<tilt>19.5073100422231</tilt>
+				<range>1815.647058364288</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.21051445348064,65.93289672977032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kälkäjän turvesuot</name>
+			<description>Useita turvesoita eri suuntiin, sarkojen pituudet 450m+. Alt 100m.</description>
+			<LookAt>
+				<longitude>26.32001444587295</longitude>
+				<latitude>65.34434851006249</latitude>
+				<altitude>0</altitude>
+				<heading>0.2908998094708601</heading>
+				<tilt>29.5511173146162</tilt>
+				<range>1404.121155047183</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.3170656350315,65.34329838173441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kumpu pellot</name>
+			<description>Useita peltoja. Merkin kohdalla 450m sarka tien vieressä suunnassa 130/310. Alt 80m.</description>
+			<LookAt>
+				<longitude>26.22099815471291</longitude>
+				<latitude>65.00944011922618</latitude>
+				<altitude>0</altitude>
+				<heading>0.2197711684480899</heading>
+				<tilt>28.46633805749334</tilt>
+				<range>1260.999063753871</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.22259409780779,65.00982856024824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pellopää pellot</name>
+			<description>Peltoja järven pohjoispuolella. Suunnassa 90/270 sarkoja 320m pituus. Alt 120m.</description>
+			<LookAt>
+				<longitude>27.06892080168501</longitude>
+				<latitude>65.05979784198333</latitude>
+				<altitude>0</altitude>
+				<heading>0.960564212566775</heading>
+				<tilt>22.98553963875234</tilt>
+				<range>2236.684486376202</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>27.06502136654616,65.06053954133205,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seluskanjärven pellot</name>
+			<description>Peltosarkoja suunnassa 155/335, pituudet 350m. Alt 70m.</description>
+			<LookAt>
+				<longitude>26.14022359010465</longitude>
+				<latitude>64.97034179550475</latitude>
+				<altitude>0</altitude>
+				<heading>0.01641227256331043</heading>
+				<tilt>13.89863447929225</tilt>
+				<range>1480.238897234696</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>26.14022359010466,64.97034179550477,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
