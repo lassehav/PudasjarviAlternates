@@ -1,57 +1,98 @@
-name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
-"Asmunti pellot",Asmunti pellot,,6543.114N,02636.038E,180.0m,3,,,,"Asmunti pellot"
-"Livojoen sillan pellot",Livojoen sillan pellot,,6528.342N,02647.844E,180.0m,3,,,,"Livojoen sillan pellot"
-"Kokkokylä pellot",Kokkokylä pellot,,6541.716N,02639.369E,180.0m,3,,,,"Kokkokylä pellot"
-"Karhuperä pellot",Karhuperä pellot,,6541.335N,02637.541E,250.0m,3,,,,"Karhuperä pellot"
-"Ala-Siurua pellot",Ala-Siurua pellot,,6529.386N,02619.003E,180.0m,3,,,,"L-muotoinen pelto 0/180 ja 90/270 suunnat 500m"
-"Yli-Tannila turvesuot",Yli-Tannila turvesuot,,6528.946N,02609.017E,180.0m,3,,,,"Yli-Tannilasta hieman etelään turvesuot suunnat 90/180 ja 30/210."
-"Yli-Tannila pellot",Yli-Tannila pellot,,6530.280N,02608.773E,180.0m,3,,,,"Yli-tannilan peltoja. 83m alt. Merkin kohdalla yli 500m 140/320 suunnassa."
-"Tuomela pellot",Tuomela pellot,,6529.091N,02604.902E,180.0m,3,,,,"Pitkä peltoja Tuomelassa. 81m alt."
-"Lamminperä turvesuo",Lamminperä turvesuo,,6534.187N,02559.747E,180.0m,3,,,,"Lamminperän turvesuot 109m alt. 120/300 suunnassa pitkiä sarkoja."
-"Kivilammen turvesuot",Kivilammen turvesuot,,6526.914N,02634.477E,180.0m,3,,,,"Turvesuot pitkiä sarkoja moneen suuntaan. 105m alt."
-"Aittojärven turvesuot",Aittojärven turvesuot,,6524.634N,02638.040E,180.0m,3,,,,"Pienehköjä turvesoita Aittojärvestä itään. Suunta 200/20 pituus noin 350m. Alt 100m."
-"Aittojärven pelto",Aittojärven pelto,,6525.569N,02641.583E,180.0m,3,,,,"Pelto aittojärven pohjoispuolella. Sarkaleveys noin 15m. pituus noin 400m. Suunta 30/210. alt 110m."
-"Suokkola pelto",Suokkola pelto,,6524.927N,02646.141E,180.0m,3,,,,"400m pitkä pelto suunnassa 60/210. Alt 110m. Noin neljä sarkaa keskellä lato."
-"Lauttasen turvesuo",Lauttasen turvesuo,,6522.557N,02637.771E,180.0m,3,,,,"Turvesuo jossa noin 300m sarkoja itä-länsi suunnassa ja muuutama 500m pohjois-etelä suunnassa. alt 110m"
-"Temmeskylän turvesuo",Temmeskylän turvesuo,,6529.165N,02700.854E,180.0m,3,,,,"Moneen suuntaan noin 600m pitkiä sarkoja"
-"Kivarintien turvesuo",Kivarintien turvesuo,,6526.332N,02704.833E,180.0m,3,,,,"Turvesuo sarkoja 120/300 ja 80/260 suunnassa noin 600m pitkiä. alt 130m"
-"Teerilammensuo",Teerilammensuo,,6535.694N,02621.045E,180.0m,3,,,,"Turvesuo ehkä ei käytössä? Pohjois-etelä suunnassa 600m sarkoja. Alt 110m."
-"Lampisuo",Lampisuo,,6519.632N,02630.014E,180.0m,3,,,,"Turvesuo 600m sarkoja suunnassa 45/225. alt 110m"
-"Kortesuo",Kortesuo,,6514.529N,02637.714E,180.0m,3,,,,"Turvesuo 120/300 suunnassa 400m pitkiä sarkoja. alt 110m"
-"Juurikka-aho turvesuo",Juurikka-aho turvesuo,,6512.745N,02626.262E,180.0m,3,,,,"Turvesuo 300m pitkiä sarkoja 120/300 suunnassa. 120m alt."
-"Kelankylän pelto",Kelankylän pelto,,6544.812N,02702.217E,180.0m,3,,,,"400m pitkä pelto suunnassa 300/120. Ympärillä muita pienempiä peltoja. Alt 150m."
-"Tuhansuon pellot",Tuhansuon pellot,,6544.546N,02712.120E,180.0m,3,,,,"Peltoja 500m pitkiä sarkoja suunnassa 330/150. Ympärillä muutama muu. Alt 160m."
-"Hyppylän pellot",Hyppylän pellot,,6543.006N,02709.549E,180.0m,3,,,,"Pelto tien vieressä. 400m pitkä suunnassa 110/290. Atl 150m"
-"Yli-Livon pelto",Yli-Livon pelto,,6535.198N,02710.811E,180.0m,3,,,,"Tien vieressä 450m pitkä peltosarka suunnassa 350/170. Lähistöllä pienempiä peltoja myös. Alt 130m."
-"Kuukkeli pelto",Kuukkeli pelto,,6534.081N,02713.064E,180.0m,3,,,,"Pelto 400m pitkä suunnassa 65/225 alt 135m"
-"Kuokka pellot",Kuokka pellot,,6533.015N,02710.805E,180.0m,3,,,,"Useita noin 350m pitkiä peltosarkoja suunnassa 80/260. alt 130m"
-"Rytingin pellot",Rytingin pellot,,6541.721N,02720.852E,180.0m,3,,,,"Joen pohjoispuolella peltoja pohjois-eteläsuunnassa idänpuoleisin sarka pisin 280m"
-"Haapalan pellot",Haapalan pellot,,6542.932N,02721.850E,180.0m,3,,,,"Pellot joen länsirannalla. Sarkojen pituus noin 260m suunnassa 45/225 ja 85/265. Alt 144m."
-"Sarajärven pellot",Sarajärven pellot,,6548.730N,02724.824E,180.0m,3,,,,"Peltosarkoja suunnassa 165/345 pituusn noin 450m. Alt 160m"
-"Varpuvaaran pellot",Varpuvaaran pellot,,6544.788N,02724.459E,180.0m,3,,,,"Peltoja pohjois-etelä suunnassa kolme neliön muotoista peltoalaa sarkojen pituus noin 300m. alt 160m."
-"Kuopusjärven pellot",Kuopusjärven pellot,,6539.015N,02722.339E,180.0m,3,,,,"peltoja järven eteläpuolella suunnassa 45/225 pituus 500m poikittain muita sarkoja pituudet noin 250m. Alt 185m"
-"Hoikkalammen pellot",Hoikkalammen pellot,,6536.437N,02724.244E,180.0m,3,,,,"Peltosarkoja suunnassa 100/280 pituus noin 500m. Alt 180m"
-"Iinattijärven pellot",Iinattijärven pellot,,6528.630N,02725.464E,180.0m,3,,,,"Peltosarkoja suunnassa 340/160 pituus noin 260m useita rinnakkain ja peräkkäin (hox tie sarkojen poikki). Alt 140m"
-"Tulitauon pellot",Tulitauon pellot,,6523.579N,02717.319E,180.0m,3,,,,"Useita peltoja tulitauosta läteen suunnassa 90/270 450m pitkiä sarkoja. Pohjois-eteläsuunnassa lyhyempiä"
-"Rissasenperän pellot",Rissasenperän pellot,,6522.509N,02703.571E,180.0m,3,,,,"Pelto suunnassa 350/170 sarkojen pituus 450m alt 120m"
-"Hetekylän turvesuo",Hetekylän turvesuo,,6511.169N,02641.050E,180.0m,3,,,,"Turvesuo sarkojen suunta 200/20 pituudet 450m ja yli"
-"Livojoen kaaren pelto",Livojoen kaaren pelto,,6524.273N,02645.670E,180.0m,3,,,,"Puoliympyrän muotonen pelto Livojoen kaaressa suunnassa 90/270 saran pituus 280m. Alt 110m"
-"Yliperän pellot",Yliperän pellot,,6505.426N,02635.232E,180.0m,3,,,,"Peltosarkoja itä-länsi ja pohjois-eteläsuunnassa sarkojen pituus yli 450m. Alt 100m."
-"Lepolan turvesuo",Lepolan turvesuo,,6505.034N,02640.144E,180.0m,3,,,,"Turvesuo sarkoja itä-länsi ja pohjois-eteläsuunnassa. Sarkojen pituus 450m tai yli. Alt 110m."
-"Ylikiimingin pellot",Ylikiimingin pellot,,6501.175N,02608.806E,180.0m,3,,,,"Peltoja eri suunnissa merkin kohdalla leveitä sarkoja suunnassa 90/270 pituus 300m. Alt 70m. Lähellä myös muita hyviä sarkoja mutta ehkä hieman kapeampia."
-"Paajasen turvesuo",Paajasen turvesuo,,6505.408N,02610.230E,180.0m,3,,,,"Turvesuo pohjois-eteläsuunnassa sarkoja rinnakkain yli 500m pituus. Alt 80m."
-"Arkala turvesuo",Arkala turvesuo,,6509.998N,02606.092E,180.0m,3,,,,"Turvesuo useita sarkoja eri suunnissa 400m+ alt 80m"
-"Kortesuon pellot",Kortesuon pellot,,6509.422N,02611.172E,180.0m,3,,,,"Peltoja suunnassa 40/220 pituus 500m. Alt 90m"
-"Ruottisenharjun pellot",Ruottisenharjun pellot,,6513.944N,02713.390E,180.0m,3,,,,"Peltosarkoja suunnassa 100/280. Pituus 300m."
-"Takasuon turvesuo",Takasuon turvesuo,,6516.107N,02701.873E,180.0m,3,,,,"Turvesuo sarkoja moniin suuntiin. Merkin kohdalla suunnassa 10/190 pituus 500m+. Alt 120m."
-"Isoahon pelto",Isoahon pelto,,6518.068N,02729.427E,180.0m,3,,,,"Huoo kuva ei varma. Pelto suunnassa 335/135 pituus 300m idänpuoleisin sarka pisin. Alt 130m."
-"Karjolammen pellot",Karjolammen pellot,,6528.384N,02751.936E,180.0m,3,,,,"Huonot kuvat epävarma. Lammen ympärillä peltosarkoja suunnassa 30/210 300m pitkiä suunnassa 80/260 250m. Alt 170m."
-"Ranta-Kunnas pelto",Ranta-Kunnas pelto,,6529.419N,02755.249E,180.0m,3,,,,"Joen veressä pelto jonka keskellä lato. Joen vartta sarkapituus 325m suunnassa 75/255. Alt 170m."
-"Sääskisuo turvesuo",Sääskisuo turvesuo,,6551.016N,02639.324E,180.0m,3,,,,"Turvesuo ympärillä useita turvesoita. Merkin kohdalla suunnassa 0/180 500m sarkoja. Alt 165m."
-"Ranuan pellot",Ranuan pellot,,6556.836N,02631.311E,180.0m,3,,,,"Pelto sarkojen suunta 300/120 tieltä pituus 500m. Alt 150m."
-"Näätäaavan turvesuot",Näätäaavan turvesuot,,6555.974N,02612.631E,180.0m,3,,,,"Useita turvesoita eri suuntiin alt 140m."
-"Kälkäjän turvesuot",Kälkäjän turvesuot,,6520.598N,02619.024E,180.0m,3,,,,"Useita turvesoita eri suuntiin sarkojen pituudet 450m+. Alt 100m."
-"Kumpu pellot",Kumpu pellot,,6500.590N,02613.356E,180.0m,3,,,,"Useita peltoja. Merkin kohdalla 450m sarka tien vieressä suunnassa 130/310. Alt 80m."
-"Pellopää pellot",Pellopää pellot,,6503.632N,02703.901E,180.0m,3,,,,"Peltoja järven pohjoispuolella. Suunnassa 90/270 sarkoja 320m pituus. Alt 120m."
-"Seluskanjärven pellot",Seluskanjärven pellot,,6458.221N,02608.413E,180.0m,3,,,,"Peltosarkoja suunnassa 155/335 pituudet 350m. Alt 70m."
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
+"Aittojärven pelto",Aittojärven pelto,,6525.569N,02641.583E,0.0m,1,,,,"Pelto aittojärven pohjoispuolella. Sarkaleveys noin 15m. pituus noin 400m. Suunta 30/210. alt 110m.",,
+"Aittojärven turvesuot",Aittojärven turvesuot,,6524.634N,02638.040E,0.0m,1,,,,"Pienehköjä turvesoita Aittojärvestä itään. Suunta 200/20 pituus noin 350m. Alt 100m.",,
+"Ala-Siurua pellot",Ala-Siurua pellot,,6529.386N,02619.003E,0.0m,1,,,,"L-muotoinen pelto 0/180 ja 90/270 suunnat 500m",,
+"Anetjärvi pellot",Anetjärvi pellot,,6554.774N,02758.156E,0.0m,1,,,,"190 / 10 Suunnassa. 250 metriä pitkät pellot. Peltoja myös muissa suunnissa. alt 270m.",,
+"Arkala turvesuo",Arkala turvesuo,,6509.998N,02606.092E,0.0m,1,,,,"Turvesuo useita sarkoja eri suunnissa 400m+ alt 80m",,
+"Asmunti pellot",Asmunti pellot,,6543.114N,02636.038E,0.0m,1,,,,"Asmunti pellot",,
+"Haapalan pellot",Haapalan pellot,,6542.932N,02721.850E,0.0m,1,,,,"Pellot joen länsirannalla. Sarkojen pituus noin 260m suunnassa 45/225 ja 85/265. Alt 144m.",,
+"Hetekylän turvesuo",Hetekylän turvesuo,,6511.169N,02641.050E,0.0m,1,,,,"Turvesuo sarkojen suunta 200/20 pituudet 450m ja yli",,
+"Hoikkalammen pellot",Hoikkalammen pellot,,6536.437N,02724.244E,0.0m,1,,,,"Peltosarkoja suunnassa 100/280 pituus noin 500m. Alt 180m",,
+"Hosio - Lumiaapa turvesuot",Hosio - Lumiaapa turvesuot,,6556.322N,02544.614E,0.0m,1,,,,"190 / 10 Suunnassa 900 metriä pitkät sarat. Sarkoja myös muihin suuntiin. ALT 116m.",,
+"Hyppylän pellot",Hyppylän pellot,,6543.006N,02709.549E,0.0m,1,,,,"Pelto tien vieressä. 400m pitkä suunnassa 110/290. Atl 150m",,
+"Iinattijärven pellot",Iinattijärven pellot,,6528.630N,02725.464E,0.0m,1,,,,"Peltosarkoja suunnassa 340/160 pituus noin 260m useita rinnakkain ja peräkkäin (hox tie sarkojen poikki). Alt 140m",,
+"Impiö - Rytijärven itäpuoleiset pellot",Impiö - Rytijärven itäpuoleiset pellot,,6556.318N,02720.194E,0.0m,1,,,,"140 / 320 Suunnassa 280 metriä pitkät pellot (lyhimmästä kohdasta). ALT 196m.",,
+"Impiö pellot",Impiö pellot,,6558.193N,02711.745E,0.0m,1,,,,"280 suuntaan järveltä ylämäkeen. pituus 320 metriä. ALT 178m. Kylällä myös muita peltoja.",,
+"Inkee pellot",Inkee pellot,,6542.964N,02834.300E,0.0m,1,,,,"Suunnassa 95 / 275. Pituus 300m. Sarkoja myös vastakkaisessa suunnassa. ALT 248m",,
+"Isoahon pelto",Isoahon pelto,,6518.068N,02729.427E,0.0m,1,,,,"Huoo kuva ei varma. Pelto suunnassa 335/135 pituus 300m idänpuoleisin sarka pisin. Alt 130m.",,
+"Jaalanka Ali-Tontti Pellot",Jaalanka Ali-Tontti Pellot,,6512.221N,02727.194E,0.0m,1,,,,"290 / 30 Sunnassa 280 metriä pitkät pellot. Peltoja myös ristikkäisessä sunnassa. alt 136m",,
+"Jaarakkajärvi - Korpinen",Jaarakkajärvi - Korpinen,,6507.702N,02745.148E,0.0m,1,,,,"Suunnassa 10 / 190 Peltoja. Pituus 350m. Sarkoja myös ristikkäisessä suunnassa. Alt 153m",,
+"Juorkuna turvesuot",Juorkuna turvesuot,,6458.663N,02654.694E,0.0m,1,,,,"500m sarka ilman esteitä 185/05 suunnassa. Sarkoja myös muissa suunnissa. Lähetä löytyy peltoja. Alt124m",,
+"Juurikka-aho turvesuo",Juurikka-aho turvesuo,,6512.745N,02626.262E,0.0m,1,,,,"Turvesuo 300m pitkiä sarkoja 120/300 suunnassa. 120m alt.",,
+"Kälkäjän turvesuot",Kälkäjän turvesuot,,6520.598N,02619.024E,0.0m,1,,,,"Useita turvesoita eri suuntiin sarkojen pituudet 450m+. Alt 100m.",,
+"Karhuperä pellot",Karhuperä pellot,,6541.335N,02637.541E,250.0m,1,,,,"Karhuperä pellot",,
+"Karjolammen pellot",Karjolammen pellot,,6528.384N,02751.936E,0.0m,1,,,,"Huonot kuvat epävarma. Lammen ympärillä peltosarkoja suunnassa 30/210 300m pitkiä suunnassa 80/260 250m. Alt 170m.",,
+"Keinäsperä pellot",Keinäsperä pellot,,6509.844N,02655.260E,0.0m,1,,,,"120 / 300 Sunnassa. 330 metriä alt 105m",,
+"Kelankylän pelto",Kelankylän pelto,,6544.812N,02702.217E,0.0m,1,,,,"400m pitkä pelto suunnassa 300/120. Ympärillä muita pienempiä peltoja. Alt 150m.",,
+"Kilvennaapa pellot ja turvesuot",Kilvennaapa pellot ja turvesuot,,6612.198N,02610.647E,0.0m,1,,,,"Useassa suunnassa sarkoja. Pisteenkodalla 260 / 80 Suunnassa 470 Metriä pitkät pellot.",,
+"Kivarintien turvesuo",Kivarintien turvesuo,,6526.332N,02704.833E,0.0m,1,,,,"Turvesuo sarkoja 120/300 ja 80/260 suunnassa noin 600m pitkiä. alt 130m",,
+"Kivilammen turvesuot",Kivilammen turvesuot,,6526.914N,02634.477E,0.0m,1,,,,"Turvesuot pitkiä sarkoja moneen suuntaan. 105m alt.",,
+"Kokkokylä pellot",Kokkokylä pellot,,6541.716N,02639.369E,0.0m,1,,,,"Kokkokylä pellot",,
+"Kortesuo",Kortesuo,,6514.529N,02637.714E,0.0m,1,,,,"Turvesuo 120/300 suunnassa 400m pitkiä sarkoja. alt 110m",,
+"Kortesuon pellot",Kortesuon pellot,,6509.422N,02611.172E,0.0m,1,,,,"Peltoja suunnassa 40/220 pituus 500m. Alt 90m",,
+"Kosamojärvi pellot",Kosamojärvi pellot,,6514.452N,02744.573E,0.0m,1,,,,"115/305 suunnassa 440 metriä alt 194m",,
+"Kouva pellot",Kouva pellot,,6550.188N,02742.887E,0.0m,1,,,,"10 / 190 suunnassa. 320 metriä. Peltoja myös muissa suunnissa. ALT 210m.",,
+"Kuivaniemi - Hyry pellot",Kuivaniemi - Hyry pellot,,6538.761N,02531.817E,0.0m,1,,,,"Suunnassa 230 / 52. 490 metriä pitkät pellot. alt 64m. Alueella myös muita peltoja.",,
+"Kumpu pellot",Kumpu pellot,,6500.590N,02613.356E,0.0m,1,,,,"Useita peltoja. Merkin kohdalla 450m sarka tien vieressä suunnassa 130/310. Alt 80m.",,
+"Kuokka pellot",Kuokka pellot,,6533.015N,02710.805E,0.0m,1,,,,"Useita noin 350m pitkiä peltosarkoja suunnassa 80/260. alt 130m",,
+"Kuopusjärven pellot",Kuopusjärven pellot,,6539.015N,02722.339E,0.0m,1,,,,"peltoja järven eteläpuolella suunnassa 45/225 pituus 500m poikittain muita sarkoja pituudet noin 250m. Alt 185m",,
+"Kuukkeli pelto",Kuukkeli pelto,,6534.081N,02713.064E,0.0m,1,,,,"Pelto 400m pitkä suunnassa 65/225 alt 135m",,
+"Lamminperä turvesuo",Lamminperä turvesuo,,6534.187N,02559.747E,0.0m,1,,,,"Lamminperän turvesuot 109m alt. 120/300 suunnassa pitkiä sarkoja.",,
+"Lampisuo",Lampisuo,,6519.632N,02630.014E,0.0m,1,,,,"Turvesuo 600m sarkoja suunnassa 45/225. alt 110m",,
+"Lauttasen turvesuo",Lauttasen turvesuo,,6522.557N,02637.771E,0.0m,1,,,,"Turvesuo jossa noin 300m sarkoja itä-länsi suunnassa ja muuutama 500m pohjois-etelä suunnassa. alt 110m",,
+"Lepolan turvesuo",Lepolan turvesuo,,6505.034N,02640.144E,0.0m,1,,,,"Turvesuo sarkoja itä-länsi ja pohjois-eteläsuunnassa. Sarkojen pituus 450m tai yli. Alt 110m.",,
+"Livojoen kaaren pelto",Livojoen kaaren pelto,,6524.273N,02645.670E,0.0m,1,,,,"Puoliympyrän muotonen pelto Livojoen kaaressa suunnassa 90/270 saran pituus 280m. Alt 110m",,
+"Livojoen sillan pellot",Livojoen sillan pellot,,6528.342N,02647.844E,0.0m,1,,,,"Livojoen sillan pellot",,
+"Loukusa Pellot",Loukusa Pellot,,6543.763N,02757.686E,0.0m,1,,,,"Suunassa 220 Järveltä. 250 metriä pitkä. Alt 249m",,
+"Näätäaavan turvesuot",Näätäaavan turvesuot,,6555.974N,02612.631E,0.0m,1,,,,"Useita turvesoita eri suuntiin alt 140m.",,
+"Narkaus Pellot",Narkaus Pellot,,6616.803N,02607.888E,0.0m,1,,,,"240 / 60 Suunnassa 260 metriä pitkä pelto niemissä. Lähellä myös muita peltoja. alt 153m.",,
+"Oijärvi - Turkkisuo.",Oijärvi - Turkkisuo.,,6546.124N,02605.525E,0.0m,1,,,,"165 / 345 Suunnassa 800m pitkät sarat. Sarkoja myös muissa suunnissa. ALT 118m.",,
+"Ojaniemi - Pellot",Ojaniemi - Pellot,,6554.758N,02704.105E,0.0m,1,,,,"180 / 0 Suunnassa. 470 metriä pitkät. ALT 188m. Peltoja myös muihin suuntiin.",,
+"Paajasen turvesuo",Paajasen turvesuo,,6505.408N,02610.230E,0.0m,1,,,,"Turvesuo pohjois-eteläsuunnassa sarkoja rinnakkain yli 500m pituus. Alt 80m.",,
+"Pellopää pellot",Pellopää pellot,,6503.632N,02703.901E,0.0m,1,,,,"Peltoja järven pohjoispuolella. Suunnassa 90/270 sarkoja 320m pituus. Alt 120m.",,
+"Penämö pellot",Penämö pellot,,6600.587N,02715.536E,0.0m,1,,,,"115 / 295 Suunnassa 250 metriä pitkät sarat. Vieressä myös peltoa muihin suuntiin jotka lyhyempiä. alt 188m",,
+"Pintamo pellot",Pintamo pellot,,6527.219N,02739.541E,0.0m,1,,,,"Suunta järveltä 270. Pituus 325m. alt 174m.",,
+"Portimo Pellot",Portimo Pellot,,6606.686N,02618.557E,0.0m,1,,,,"200 / 20 Suunnassa 330 metriä pitkät. alt 143m.",,
+"Portimon pohojoispuolen pellot",Portimon pohojoispuolen pellot,,6608.407N,02617.846E,0.0m,1,,,,"135 / 315 Suunnassa. 380 metriä pitkät sarat. alt 163m.",,
+"Puhosjärvi pellot",Puhosjärvi pellot,,6517.194N,02752.638E,0.0m,1,,,,"270/130 Sunnassa. 250 metriä. alt 178m.",,
+"Ranta-Kunnas pelto",Ranta-Kunnas pelto,,6529.419N,02755.249E,0.0m,1,,,,"Joen veressä pelto jonka keskellä lato. Joen vartta sarkapituus 325m suunnassa 75/255. Alt 170m.",,
+"Ranua - Nuupas pellot",Ranua - Nuupas pellot,,6600.851N,02618.523E,0.0m,1,,,,"335 / 155 Suunnassa. 480 metriä pitkät. alt 160m.",,
+"Ranua - Sääskijärvi turvesuot",Ranua - Sääskijärvi turvesuot,,6600.091N,02641.234E,0.0m,1,,,,"200 / 20 Suunnassa 360 metriä pitkät sarat. Sarkoja myös muissa suunnissa. alt 155m.",,
+"Ranua - Toivakka Pellot",Ranua - Toivakka Pellot,,6601.477N,02651.255E,0.0m,1,,,,"105 / 285 Suunnassa. 460 metriä pitkät. alt 169m.",,
+"Ranuan pellot",Ranuan pellot,,6556.836N,02631.311E,0.0m,1,,,,"Pelto sarkojen suunta 300/120 tieltä pituus 500m. Alt 150m.",,
+"Rissasenperän pellot",Rissasenperän pellot,,6522.509N,02703.571E,0.0m,1,,,,"Pelto suunnassa 350/170 sarkojen pituus 450m alt 120m",,
+"Ruottisenharjun pellot",Ruottisenharjun pellot,,6513.944N,02713.390E,0.0m,1,,,,"Peltosarkoja suunnassa 100/280. Pituus 300m.",,
+"Rytingin pellot",Rytingin pellot,,6541.721N,02720.852E,0.0m,1,,,,"Joen pohjoispuolella peltoja pohjois-eteläsuunnassa idänpuoleisin sarka pisin 280m",,
+"Sääskisuo turvesuo",Sääskisuo turvesuo,,6551.016N,02639.324E,0.0m,1,,,,"Turvesuo ympärillä useita turvesoita. Merkin kohdalla suunnassa 0/180 500m sarkoja. Alt 165m.",,
+"Sanginkylä - Virtala pellot",Sanginkylä - Virtala pellot,,6449.924N,02645.104E,0.0m,1,,,,"100/280 suunnassa 500m. alt 105m",,
+"Sanginkylä pellot",Sanginkylä pellot,,6452.075N,02645.648E,0.0m,1,,,,"Suunta 235 / 55. pituus 250m ei reunaestietä. alt 116m",,
+"Sanginkylä turvesuot",Sanginkylä turvesuot,,6453.499N,02649.194E,0.0m,1,,,,"60 / 240 sunnassa 480metriä. alt 120m",,
+"Sarajärven pellot",Sarajärven pellot,,6548.730N,02724.824E,0.0m,1,,,,"Peltosarkoja suunnassa 165/345 pituusn noin 450m. Alt 160m",,
+"Särkijärvi turvesuot",Särkijärvi turvesuot,,6454.335N,02712.041E,0.0m,1,,,,"sunnassa 175/355 775metriä pitkiä sarkoja. alt 130m. Lähellä myös peltoja.",,
+"Seluskanjärven pellot",Seluskanjärven pellot,,6458.221N,02608.413E,0.0m,1,,,,"Peltosarkoja suunnassa 155/335 pituudet 350m. Alt 70m.",,
+"Simojärvi - Ruonalampi pellot",Simojärvi - Ruonalampi pellot,,6608.269N,02656.066E,0.0m,1,,,,"200 / 20 Suunta. Pituus 500m. alt 178m. Huomio sähkölinja ( sen kyllä huomaa).",,
+"Simojärvi - Sääskilahti pellot",Simojärvi - Sääskilahti pellot,,6602.603N,02707.990E,0.0m,1,,,,"Suunnassa 310/130. 400 metriä pitkät. alt 184m.",,
+"Simojärvi hiisisuo pellot",Simojärvi hiisisuo pellot,,6604.333N,02702.455E,0.0m,1,,,,"345 / 145 Suunnassa. 300 metriä pitkät. Peltoja myös vastakkaisessa suunnassa. alt 178m.",,
+"Suokkola pelto",Suokkola pelto,,6524.927N,02646.141E,0.0m,1,,,,"400m pitkä pelto suunnassa 60/210. Alt 110m. Noin neljä sarkaa keskellä lato.",,
+"Taivalkoski - Kotila - Pellot",Taivalkoski - Kotila - Pellot,,6534.288N,02826.738E,0.0m,1,,,,"270/90 Sunnassa 300metriä. Myös ristikkäisessä sunnassa sarkoja. alt 262m",,
+"Takalehto Pellot",Takalehto Pellot,,6530.460N,02812.128E,0.0m,1,,,,"150/330 Sunnassa 300m pitkät sarat. ATL 220m.",,
+"Takasuon turvesuo",Takasuon turvesuo,,6516.107N,02701.873E,0.0m,1,,,,"Turvesuo sarkoja moniin suuntiin. Merkin kohdalla suunnassa 10/190 pituus 500m+. Alt 120m.",,
+"Teerilammensuo",Teerilammensuo,,6535.694N,02621.045E,0.0m,1,,,,"Turvesuo ehkä ei käytössä? Pohjois-etelä suunnassa 600m sarkoja. Alt 110m.",,
+"Temmeskylän turvesuo",Temmeskylän turvesuo,,6529.165N,02700.854E,0.0m,1,,,,"Moneen suuntaan noin 600m pitkiä sarkoja",,
+"Tuhansuon pellot",Tuhansuon pellot,,6544.546N,02712.120E,0.0m,1,,,,"Peltoja 500m pitkiä sarkoja suunnassa 330/150. Ympärillä muutama muu. Alt 160m.",,
+"Tulitauon pellot",Tulitauon pellot,,6523.579N,02717.319E,0.0m,1,,,,"Useita peltoja tulitauosta läteen suunnassa 90/270 450m pitkiä sarkoja. Pohjois-eteläsuunnassa lyhyempiä",,
+"Tuomela pellot",Tuomela pellot,,6529.091N,02604.902E,0.0m,1,,,,"Pitkä peltoja Tuomelassa. 81m alt.",,
+"Utajärvi - Ala-Naama Pellot.",Utajärvi - Ala-Naama Pellot.,,6446.511N,02632.049E,0.0m,1,,,,"380 metriä 210 / 30 suunnassa. + monessa muusaakin suunnassa Sarkoja. ALT 83m. Tämän eteläpuolella laskupaikkoja riittää.",,
+"Varpuvaaran pellot",Varpuvaaran pellot,,6544.788N,02724.459E,0.0m,1,,,,"Peltoja pohjois-etelä suunnassa kolme neliön muotoista peltoalaa sarkojen pituus noin 300m. alt 160m.",,
+"Virkkusenjärvi pelto",Virkkusenjärvi pelto,,6540.027N,02755.855E,0.0m,1,,,,"255/75 Suunnassa. 250 metriä pitkä pelto. alt 250m.",,
+"Vuohinki turvesuot",Vuohinki turvesuot,,6448.859N,02703.430E,0.0m,1,,,,"110 / 290 suunnassa 500metriä pitkä sarka. alt 144m",,
+"Yli-Ii turvesuot",Yli-Ii turvesuot,,6522.992N,02556.021E,0.0m,1,,,,"95 / 275 Suunnassa 720 metriä pitkät sarat. Isot turvesuot. Sarkoja useaan muuhunkin suuntaan. alt 59m.",,
+"Ylikärppä Pellot",Ylikärppä Pellot,,6548.668N,02542.344E,0.0m,1,,,,"210 / 30 Suunnassa 700 Metriä pitkät pellot. Peltoja myös muihin suuntiin. alt 98m.",,
+"Ylikiimingin pellot",Ylikiimingin pellot,,6501.175N,02608.806E,0.0m,1,,,,"Peltoja eri suunnissa merkin kohdalla leveitä sarkoja suunnassa 90/270 pituus 300m. Alt 70m. Lähellä myös muita hyviä sarkoja mutta ehkä hieman kapeampia.",,
+"Yli-Livon pelto",Yli-Livon pelto,,6535.198N,02710.811E,0.0m,1,,,,"Tien vieressä 450m pitkä peltosarka suunnassa 350/170. Lähistöllä pienempiä peltoja myös. Alt 130m.",,
+"Yliolhava pellot",Yliolhava pellot,,6531.602N,02537.405E,0.0m,1,,,,"135 / 315 Suunnassa 300 metriä pitkät sarat. Allueella myös muita sarkoja. ALT 56m.",,
+"Yliperän pellot",Yliperän pellot,,6505.426N,02635.232E,0.0m,1,,,,"Peltosarkoja itä-länsi ja pohjois-eteläsuunnassa sarkojen pituus yli 450m. Alt 100m.",,
+"Yli-Tannila pellot",Yli-Tannila pellot,,6530.280N,02608.773E,0.0m,1,,,,"Yli-tannilan peltoja. 83m alt. Merkin kohdalla yli 500m 140/320 suunnassa.",,
+"Yli-Tannila turvesuot",Yli-Tannila turvesuot,,6528.946N,02609.017E,0.0m,1,,,,"Yli-Tannilasta hieman etelään turvesuot suunnat 90/180 ja 30/210.",,
+"Ylivuotto pellot",Ylivuotto pellot,,6456.787N,02632.813E,0.0m,1,,,,"200 / 20 Suunnassa. 300 metriä pitkä. alt 100m",,
 -----Related Tasks-----
